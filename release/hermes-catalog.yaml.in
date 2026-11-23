@@ -6,7 +6,7 @@ maintainer: REPLACE_WITH_GITHUB_HANDLE
 tier: community
 category: tools
 docs_url: https://docs.agentrouter.to/integrations/mcp
-version: "0.1.0"
+version: "0.1.1"
 capabilities:
   provides_tools: []
   provides_hooks: []

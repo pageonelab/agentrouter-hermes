@@ -2,6 +2,8 @@
 
 Compare where competitors appear for one Google query with what people said about them on Reddit this week. The plugin adds one Hermes skill, `agentrouter:competitor-brief`. It uses AgentRouter's hosted MCP connection.
 
+Preview the two tools the brief uses, including their inputs and pricing: [Google organic search results](https://www.agentrouter.to/tools/dataforseo.serp_google_organic?utm_source=hermes&utm_medium=plugin) and [Reddit post search](https://www.agentrouter.to/tools/anyapi.reddit.search?utm_source=hermes&utm_medium=plugin).
+
 ## Install from this package
 
 From the extracted package root, run the following for your active Hermes profile. Set `HERMES_HOME` to that profile's directory if you use a custom profile. The copy command stops if the plugin directory already exists.
