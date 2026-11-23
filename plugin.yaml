@@ -1,0 +1,9 @@
+name: agentrouter
+version: "0.1.0"
+description: Compare competitor search rankings and Reddit discussions with sources and spend from your AgentRouter wallet.
+author: AgentRouter
+homepage: https://www.agentrouter.to
+manifest_version: 2
+api_version: 1
+provides_tools: []
+provides_hooks: []
