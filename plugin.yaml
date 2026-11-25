@@ -1,6 +1,6 @@
 name: agentrouter
-version: "0.1.1"
-description: Compare competitor search rankings and Reddit discussions with sources and spend from your AgentRouter wallet.
+version: "0.2.0"
+description: Research competitors, verify job openings, trace growth channels, and analyze short videos with AgentRouter.
 author: AgentRouter
 homepage: https://www.agentrouter.to
 manifest_version: 2
